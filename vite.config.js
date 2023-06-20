@@ -3,5 +3,5 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
 	plugins: [sveltekit()],
-	base: '/weather_svelte/',
+	base: '/weather/',
 });
